@@ -1,4 +1,4 @@
-<h1> [Tribute page for Satoru Iwata](https://ajp64.github.io/) </h1>
+[<h1>Tribute page for Satoru Iwata</h1>](https://ajp64.github.io)
 
 
 **Contents:**
